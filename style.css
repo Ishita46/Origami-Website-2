@@ -1,0 +1,17 @@
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-around;
+}
+
+.cards{
+    border-radius: 5px;
+    background-color: aliceblue;
+    width: 300px;
+}
+
+.grid img{
+    border: black;
+    border-radius: 500px;
+}
